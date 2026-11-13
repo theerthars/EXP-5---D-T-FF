@@ -55,6 +55,7 @@ endmodule
 // gedit tb5.v
 
 
+```
  module tb5;
  
     reg  clk, rst, D, T;
@@ -106,6 +107,7 @@ endmodule
         #20 $finish;
     end
     endmodule
+```
 
 ## Truth Table
 
@@ -165,7 +167,9 @@ Q(next) = T ⊕ Q   (T Flip-Flop)
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 ## Output
-<img width="595" height="369" alt="image" src="https://github.com/user-attachments/assets/38290e4d-a813-4e0c-b891-68044c90623b" />
+<img width="1877" height="975" alt="Screenshot 2026-11-12 114947" src="https://github.com/user-attachments/assets/f88a5a12-33e9-4780-b457-60ead4078018" />
+<img width="1822" height="942" alt="Screenshot 2026-11-12 115013" src="https://github.com/user-attachments/assets/b494902e-f073-464b-be7d-0bb4db22ed69" />
+
 
 ## Viva-Voce Questions
 
