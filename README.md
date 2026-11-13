@@ -175,7 +175,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 ●	What is the difference between a latch and a flip-flop?
 
-●	Why is the D flip-flop also called a 'delay' element?
+●	Why is the D flip-flop also called a 'delay' element? 
 
 ●	How is a T flip-flop derived from a JK flip-flop?
 
